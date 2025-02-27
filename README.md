@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 # KaiserSource
 
 ## OS
-![Arch Linux] (https://img.shields.io/badge/-Arch%20Linux-grey?logo=archlinux)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-grey?logo=archlinux)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kdeplasma&logoColor=white)
 
 ## Databases & Hosting
 
